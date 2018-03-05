@@ -21,3 +21,4 @@ El primer prototipo se realiza con una placa Arduino UNO, y las conexiones se re
 
 Se usan transistores NPN rescatados de una fuente de alimentacion antigua, y tan solo un boton para comprobar el funcionamiento de estos y la tira LED. Pueden verse imagenes del prototipo 0.1 en la carpeta correspondiente.
 
+Realizo un proyecto en java para practicar el codigo que usare en Arduino. Usare el IDE de Arduino, que utiliza C++ (o muy parecido) para programar.
