@@ -9,9 +9,9 @@
 
 -- 3x Transistor NPN (1x C5027 & 2x C4106), provenientes de una fuente de alimentación ATX antigua.
 
--- 2x Resistencias (1x 3.3K & 1x 10K). Deberían ser ambas iguales, pero cumplen su cometido.
+-- 1x Resistencias (10K).
 
--- 2x Botón momentáneo tipo PC.
+-- 1x Botón momentáneo tipo PC.
 
 -- 1x Disipador para 3 transistores (NO NECESARIO).
 
