@@ -17,6 +17,17 @@
      Cada pulsación añade 15 puntos de intensidad hasta un valor máximo de 255.
      Al llegar al brillo máximo (255), si pulsamos de nuevo el botón "LEVEL, el 
      valor volverá a 0, apagado.
+	 
+	-Pulsando ambos botones a la vez entramos en modo seleccion de color 
+	 pre-establecido (los LEDs parpadearan rojo y azul 2 veces para indicar que
+	 hemos entrado en el modo).
+
+	 Dentro de este modo, podemos pulsar cualquier boton para movernos por una
+	 serie de colores pre-establecidos.
+
+	 Para salir de este modo, se pulsan de nuevo los dos botones a la vez durante
+	 un segundo. Los LED parpadearan en azul 2 veces para indicar que hemos salido
+	 del modo, y el color volvera al que hubiesemos establecido manualmente.
 
   Materiales:
   - 3x Transistor NPN (adecuado a la potencia de nuestros LEDs).
