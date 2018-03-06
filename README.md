@@ -17,8 +17,18 @@ Se usan 17 pasos porque la señal PWM del Arduino tiene 255 valores, y 255 / 17 
 
 # Prototipos
 
+--0.1
+
 El primer prototipo se realiza con una placa Arduino UNO, y las conexiones se realizan mediante breadboard.
 
 Se usan transistores NPN rescatados de una fuente de alimentacion antigua, y tan solo un boton para comprobar el funcionamiento de estos y la tira LED. Pueden verse imagenes del prototipo 0.1 en la carpeta correspondiente.
 
 Realizo un proyecto en java para practicar el codigo que usare en Arduino. Usare el IDE de Arduino, que utiliza C++ (o muy parecido) para programar.
+
+--0.2
+
+En este prototipo uso los mismos materiales y componentes, tres transistores NPN conectados a una placa Arduino Uno y a una tira LED 5050 de ánodo comun.
+
+Esta vez conecto cada canal a su propia salida PWM en la placa Arduino. Esto posibilita variar la intensidad en un total de 255 pasos entre apagado y totalmente encendido.
+
+Tambien he añadido un boton mas, para un total de dos botones, botón "MODE", y botón "LEVEL".
