@@ -1,4 +1,4 @@
-# PlacaRGB v0.1
+# PlacaRGB v0.2 - Cod0.2B
  En este prototipo uso los mismos materiales y componentes, tres transistores NPN conectados a una placa Arduino Uno y a una tira LED 5050 de ánodo comun. 
  
  Esta vez conecto cada canal a su propia salida PWM en la placa Arduino. Esto posibilita variar la intensidad en un total de 255 pasos entre apagado y totalmente encendido.
