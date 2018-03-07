@@ -81,7 +81,7 @@
 // Variables constantes, definen el numero de pin.
 const int modePin = 2;     // pin del boton "MODE"
 const int levelPin = 4;      // pin del boton "LEVEL"
-const int redPin = 11,greenPin = 10,bluePin = 9; //pines de salida para cada canal de color. Por defecto, 0 (apagado).
+const int redPin = 11,greenPin = 6,bluePin = 9; //pines de salida para cada canal de color. Por defecto, 0 (apagado).
 
 // Variables que pueden cambiar:
 int R = 0,G = 0,B = 0; // Estas variables se usaran para controlar el brillo de cada canal

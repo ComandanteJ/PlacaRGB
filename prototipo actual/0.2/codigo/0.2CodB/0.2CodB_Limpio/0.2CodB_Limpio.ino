@@ -14,7 +14,7 @@
 
 const int modePin = 2;
 const int levelPin = 4;
-const int redPin = 11,greenPin = 10,bluePin = 9;
+const int redPin = 11,greenPin = 6,bluePin = 9;
 
 int R = 0,G = 0,B = 0; // Estas variables se usaran para controlar el brillo de cada canal
 char color = 'R'; // Esta variable controla que canal estamos configurando. Por defecto, el Rojo
